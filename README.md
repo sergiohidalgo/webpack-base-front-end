@@ -9,6 +9,12 @@ Como ya mencione anteriormente uno de los propósitos del proyecto es educativo 
 
 ## Ok, vamos a empezar
 
+##### Requisitos;
+NodeJS, NPM
+
+##### Paso 1: Instalar dependencias
+`npm install`
+
 ##### Iniciar servidor de desarrollo
 `npm run dev`
 
