@@ -6,3 +6,11 @@ El fin de este repositorio es tener una base para iniciar mis proyectos en front
 
 ## Idioma ¿Españo?
 Como ya mencione anteriormente uno de los propósitos del proyecto es educativo por lo cual toda la documentación externa a comentarios de código será escrita en español. Aparte ya hay mucha información de webpack en ingle ¿no?
+
+## Ok, vamos a empezar
+
+##### Iniciar servidor de desarrollo
+`npm run dev`
+
+##### Compilar para producción
+`npm run build`
